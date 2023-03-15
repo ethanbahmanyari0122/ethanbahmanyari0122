@@ -5,11 +5,10 @@
 
 ## I'm an Engineer and Developer ✏️
 
-- ⌨️ Right now working as Junior Developer in OTTO (doing front and back)
-- 👨‍🎓 Currently learning Vue/React/Next/Angular
+- ⌨️ Right now working as Junior Software Engineer at OTTO (doing front and back)
 <!-- - 👀 Looking for job opportunities and open source projects to contribute -->
-- 🏹 2021 Goals: Contribute more to Open Source projects and finish 10 big projects
-- ⚡ I'm obsessed with metaverse, VR and AI
+- 🏹 2023 Goals: Contribute more to Open Source projects and finish 10 big projects
+
 
 ## Connect with me:
 
