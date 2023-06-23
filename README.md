@@ -52,13 +52,10 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 <!-- 
 </details> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanbahmanyari0122&hide=contribs,prs)
 
-<details>
-  <summary>GitHub Stats</summary>
-<img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethanbahmanyari0122&&show_icons=true&title_color=ffffff&icon_color=ffcc33&text_color=ffcc33&bg_color=151515" />
-</details>
+![trophy](https://github-profile-trophy.vercel.app/?username=ethanbahmanyari0122&theme=onedark)
 
-<br />
 
 ---
 
